@@ -3,12 +3,11 @@ async function render() {
     countries = await response.json();
     let list = '';
     for (const country of countries) {
-        list = list + '<li>' + country.name.official + '</li>'
+        list = list + '<li>' + country.name.official + '</li>';
     }
 
-    const target = document.getElementById("countries");
+    const target = document.getElementById('countries');
     target.innerHTML = list;
-
 }
 
 addEventListener('load', render());
