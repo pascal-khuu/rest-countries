@@ -6,8 +6,8 @@ async function render() {
     for (const country of countries) {
         table = table + `<tr>  
          <th>  ${ country.name.official }  </th>
-         <td>  ${ formatNumber.format(country.area) }  </td>
-         <td>  ${ formatNumber.format(country.population) }  </td>
+         <td class="text-end>  ${ formatNumber.format(country.area) }  </td>
+         <td class="text-end>  ${ formatNumber.format(country.population) }  </td>
          <td>  ${ country.capital }  </td>
          </tr>`;
     }
