@@ -1,5 +1,5 @@
 async function render() {
-    const response = await fetch('https://restcountries.com/v3.1/region/europe?fields=name,capital,population,area');
+    const response = await fetch('https://restcountries.com/v3.1/region/europe?fields=name,area,population,capital');
     const countries = await response.json();
     let table = '';
     const formatNumber = new Intl.NumberFormat('en-US');
@@ -17,4 +17,4 @@ async function render() {
 
 }
 
-addEventListener('load', render());
+window.addEventListener('load', render());

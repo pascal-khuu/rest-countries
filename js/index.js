@@ -10,4 +10,4 @@ async function render() {
     target.innerHTML = list;
 }
 
-addEventListener('load', render());
+window.addEventListener('load', render());
