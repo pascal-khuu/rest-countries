@@ -2,11 +2,7 @@ async function render() {
     const response = await fetch('https://restcountries.com/v3.1/region/europe?fields=flags,name,capital,maps');
     const cards = await response.json();
     let groupcards = '';
-
-
-
     for (const card of cards) {
-
         groupcards =
             groupcards +
             `<div class="col"> 
@@ -18,7 +14,6 @@ async function render() {
                     </div> 
                 </div>
             </div>`;
-
     }
 
     const target = document.getElementById('cards');
