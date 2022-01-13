@@ -5,12 +5,13 @@ async function render() {
     const formatNumber = new Intl.NumberFormat('en-US');
     for (const country of countries) {
         table =
-            table + `<tr>  
-         <th>${country.name.official}</th>
-         <td class="text-end">${formatNumber.format(country.area)}</td>
-         <td class="text-end">${formatNumber.format(country.population)}</td>
-         <td>${country.capital}</td>
-         </tr>`;
+            table + `
+            <tr>  
+                <th class="text-nowrap">${country.name.official}</th>
+                <td class="text-end">${formatNumber.format(country.area)}</td>
+                <td class="text-end">${formatNumber.format(country.population)}</td>
+                <td class="text-nowrap">${country.capital[0]}</td>
+            </tr>`;
     }
 
     const target = document.getElementById('countries');
