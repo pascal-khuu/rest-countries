@@ -9,7 +9,14 @@
                 }
             }
         },
-        "cca2": "SK"
+        "cca2": "SK",
+        "capital": [
+            "Bratislava"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
+        }
     },
     {
         "name": {
@@ -22,7 +29,14 @@
                 }
             }
         },
-        "cca2": "MK"
+        "cca2": "MK",
+        "capital": [
+            "Skopje"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
+        }
     },
     {
         "name": {
@@ -35,7 +49,14 @@
                 }
             }
         },
-        "cca2": "AX"
+        "cca2": "AX",
+        "capital": [
+            "Mariehamn"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
+        }
     },
     {
         "name": {
@@ -48,7 +69,14 @@
                 }
             }
         },
-        "cca2": "ES"
+        "cca2": "ES",
+        "capital": [
+            "Madrid"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
+        }
     },
     {
         "name": {
@@ -65,7 +93,14 @@
                 }
             }
         },
-        "cca2": "FI"
+        "cca2": "FI",
+        "capital": [
+            "Helsinki"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+            "openStreetMaps": "openstreetmap.org/relation/54224"
+        }
     },
     {
         "name": {
@@ -78,7 +113,14 @@
                 }
             }
         },
-        "cca2": "AL"
+        "cca2": "AL",
+        "capital": [
+            "Tirana"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
+        }
     },
     {
         "name": {
@@ -91,7 +133,14 @@
                 }
             }
         },
-        "cca2": "EE"
+        "cca2": "EE",
+        "capital": [
+            "Tallinn"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
+        }
     },
     {
         "name": {
@@ -112,7 +161,14 @@
                 }
             }
         },
-        "cca2": "GG"
+        "cca2": "GG",
+        "capital": [
+            "St. Peter Port"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/270009"
+        }
     },
     {
         "name": {
@@ -129,7 +185,14 @@
                 }
             }
         },
-        "cca2": "XK"
+        "cca2": "XK",
+        "capital": [
+            "Pristina"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2088990"
+        }
     },
     {
         "name": {
@@ -142,7 +205,14 @@
                 }
             }
         },
-        "cca2": "DE"
+        "cca2": "DE",
+        "capital": [
+            "Berlin"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
+        }
     },
     {
         "name": {
@@ -159,7 +229,14 @@
                 }
             }
         },
-        "cca2": "CY"
+        "cca2": "CY",
+        "capital": [
+            "Nicosia"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
+        }
     },
     {
         "name": {
@@ -172,7 +249,14 @@
                 }
             }
         },
-        "cca2": "FR"
+        "cca2": "FR",
+        "capital": [
+            "Paris"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
+        }
     },
     {
         "name": {
@@ -185,7 +269,14 @@
                 }
             }
         },
-        "cca2": "ME"
+        "cca2": "ME",
+        "capital": [
+            "Podgorica"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
+        }
     },
     {
         "name": {
@@ -198,7 +289,14 @@
                 }
             }
         },
-        "cca2": "PT"
+        "cca2": "PT",
+        "capital": [
+            "Lisbon"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
+        }
     },
     {
         "name": {
@@ -211,7 +309,14 @@
                 }
             }
         },
-        "cca2": "IS"
+        "cca2": "IS",
+        "capital": [
+            "Reykjavik"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/299133"
+        }
     },
     {
         "name": {
@@ -236,7 +341,14 @@
                 }
             }
         },
-        "cca2": "CH"
+        "cca2": "CH",
+        "capital": [
+            "Bern"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
+        }
     },
     {
         "name": {
@@ -249,7 +361,14 @@
                 }
             }
         },
-        "cca2": "SI"
+        "cca2": "SI",
+        "capital": [
+            "Ljubljana"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
+        }
     },
     {
         "name": {
@@ -262,7 +381,14 @@
                 }
             }
         },
-        "cca2": "UA"
+        "cca2": "UA",
+        "capital": [
+            "Kyiv"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
+        }
     },
     {
         "name": {
@@ -275,7 +401,14 @@
                 }
             }
         },
-        "cca2": "PL"
+        "cca2": "PL",
+        "capital": [
+            "Warsaw"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
+        }
     },
     {
         "name": {
@@ -288,7 +421,14 @@
                 }
             }
         },
-        "cca2": "GB"
+        "cca2": "GB",
+        "capital": [
+            "London"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
+        }
     },
     {
         "name": {
@@ -301,7 +441,14 @@
                 }
             }
         },
-        "cca2": "RU"
+        "cca2": "RU",
+        "capital": [
+            "Moscow"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+        }
     },
     {
         "name": {
@@ -322,7 +469,14 @@
                 }
             }
         },
-        "cca2": "NO"
+        "cca2": "NO",
+        "capital": [
+            "Oslo"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
+        }
     },
     {
         "name": {
@@ -335,7 +489,14 @@
                 }
             }
         },
-        "cca2": "DK"
+        "cca2": "DK",
+        "capital": [
+            "Copenhagen"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
+        }
     },
     {
         "name": {
@@ -348,7 +509,14 @@
                 }
             }
         },
-        "cca2": "HR"
+        "cca2": "HR",
+        "capital": [
+            "Zagreb"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
+        }
     },
     {
         "name": {
@@ -365,7 +533,14 @@
                 }
             }
         },
-        "cca2": "FO"
+        "cca2": "FO",
+        "capital": [
+            "Tórshavn"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/52939"
+        }
     },
     {
         "name": {
@@ -378,7 +553,14 @@
                 }
             }
         },
-        "cca2": "LV"
+        "cca2": "LV",
+        "capital": [
+            "Riga"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
+        }
     },
     {
         "name": {
@@ -395,7 +577,14 @@
                 }
             }
         },
-        "cca2": "MT"
+        "cca2": "MT",
+        "capital": [
+            "Valletta"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
+        }
     },
     {
         "name": {
@@ -408,7 +597,14 @@
                 }
             }
         },
-        "cca2": "NL"
+        "cca2": "NL",
+        "capital": [
+            "Amsterdam"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
+        }
     },
     {
         "name": {
@@ -421,7 +617,14 @@
                 }
             }
         },
-        "cca2": "MD"
+        "cca2": "MD",
+        "capital": [
+            "Chișinău"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
+        }
     },
     {
         "name": {
@@ -442,7 +645,14 @@
                 }
             }
         },
-        "cca2": "BA"
+        "cca2": "BA",
+        "capital": [
+            "Sarajevo"
+        ],
+        "maps": {
+            "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
+        }
     },
     {
         "name": {
@@ -459,7 +669,14 @@
                 }
             }
         },
-        "cca2": "CZ"
+        "cca2": "CZ",
+        "capital": [
+            "Prague"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
+        }
     },
     {
         "name": {
@@ -476,7 +693,14 @@
                 }
             }
         },
-        "cca2": "IE"
+        "cca2": "IE",
+        "capital": [
+            "Dublin"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
+        }
     },
     {
         "name": {
@@ -497,7 +721,14 @@
                 }
             }
         },
-        "cca2": "LU"
+        "cca2": "LU",
+        "capital": [
+            "Luxembourg"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
+        }
     },
     {
         "name": {
@@ -510,7 +741,14 @@
                 }
             }
         },
-        "cca2": "SM"
+        "cca2": "SM",
+        "capital": [
+            "City of San Marino"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
+        }
     },
     {
         "name": {
@@ -523,7 +761,14 @@
                 }
             }
         },
-        "cca2": "LT"
+        "cca2": "LT",
+        "capital": [
+            "Vilnius"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
+        }
     },
     {
         "name": {
@@ -540,7 +785,14 @@
                 }
             }
         },
-        "cca2": "IM"
+        "cca2": "IM",
+        "capital": [
+            "Douglas"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/62269"
+        }
     },
     {
         "name": {
@@ -553,7 +805,14 @@
                 }
             }
         },
-        "cca2": "MC"
+        "cca2": "MC",
+        "capital": [
+            "Monaco"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
+        }
     },
     {
         "name": {
@@ -566,7 +825,14 @@
                 }
             }
         },
-        "cca2": "GR"
+        "cca2": "GR",
+        "capital": [
+            "Athens"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
+        }
     },
     {
         "name": {
@@ -579,7 +845,14 @@
                 }
             }
         },
-        "cca2": "GI"
+        "cca2": "GI",
+        "capital": [
+            "Gibraltar"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
+        }
     },
     {
         "name": {
@@ -592,7 +865,14 @@
                 }
             }
         },
-        "cca2": "BG"
+        "cca2": "BG",
+        "capital": [
+            "Sofia"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
+        }
     },
     {
         "name": {
@@ -605,7 +885,14 @@
                 }
             }
         },
-        "cca2": "HU"
+        "cca2": "HU",
+        "capital": [
+            "Budapest"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
+        }
     },
     {
         "name": {
@@ -626,7 +913,14 @@
                 }
             }
         },
-        "cca2": "BE"
+        "cca2": "BE",
+        "capital": [
+            "Brussels"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/52411"
+        }
     },
     {
         "name": {
@@ -639,7 +933,14 @@
                 }
             }
         },
-        "cca2": "LI"
+        "cca2": "LI",
+        "capital": [
+            "Vaduz"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
+        }
     },
     {
         "name": {
@@ -652,7 +953,14 @@
                 }
             }
         },
-        "cca2": "RO"
+        "cca2": "RO",
+        "capital": [
+            "Bucharest"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
+        }
     },
     {
         "name": {
@@ -669,7 +977,14 @@
                 }
             }
         },
-        "cca2": "VA"
+        "cca2": "VA",
+        "capital": [
+            "Vatican City"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/36989"
+        }
     },
     {
         "name": {
@@ -682,7 +997,14 @@
                 }
             }
         },
-        "cca2": "AD"
+        "cca2": "AD",
+        "capital": [
+            "Andorra la Vella"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
+        }
     },
     {
         "name": {
@@ -695,7 +1017,14 @@
                 }
             }
         },
-        "cca2": "SJ"
+        "cca2": "SJ",
+        "capital": [
+            "Longyearbyen"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1337397"
+        }
     },
     {
         "name": {
@@ -712,7 +1041,14 @@
                 }
             }
         },
-        "cca2": "BY"
+        "cca2": "BY",
+        "capital": [
+            "Minsk"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+        }
     },
     {
         "name": {
@@ -725,7 +1061,14 @@
                 }
             }
         },
-        "cca2": "RS"
+        "cca2": "RS",
+        "capital": [
+            "Belgrade"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
+        }
     },
     {
         "name": {
@@ -746,7 +1089,14 @@
                 }
             }
         },
-        "cca2": "JE"
+        "cca2": "JE",
+        "capital": [
+            "Saint Helier"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/367988"
+        }
     },
     {
         "name": {
@@ -759,7 +1109,14 @@
                 }
             }
         },
-        "cca2": "SE"
+        "cca2": "SE",
+        "capital": [
+            "Stockholm"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
+        }
     },
     {
         "name": {
@@ -772,7 +1129,14 @@
                 }
             }
         },
-        "cca2": "IT"
+        "cca2": "IT",
+        "capital": [
+            "Rome"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
+        }
     },
     {
         "name": {
@@ -785,6 +1149,13 @@
                 }
             }
         },
-        "cca2": "AT"
+        "cca2": "AT",
+        "capital": [
+            "Vienna"
+        ],
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
+        }
     }
 ]
