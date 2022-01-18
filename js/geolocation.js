@@ -14,6 +14,7 @@ async function render() {
     const target = document.getElementById('mapcountries');
     target.innerHTML = option;
 
+
     // map.innerHTML = new google.maps.Map(document.getElementById("mapcountry"), {
     //     center: { lat: -34.397, lng: 150.644 },
     //     zoom: 8
