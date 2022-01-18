@@ -13,10 +13,10 @@
         "capital": [
             "Bratislava"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/14296"
-        }
+        "latlng": [
+            48.66666666,
+            19.5
+        ]
     },
     {
         "name": {
@@ -33,10 +33,10 @@
         "capital": [
             "Skopje"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/53293"
-        }
+        "latlng": [
+            41.83333333,
+            22.0
+        ]
     },
     {
         "name": {
@@ -53,10 +53,10 @@
         "capital": [
             "Mariehamn"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1650407"
-        }
+        "latlng": [
+            60.116667,
+            19.9
+        ]
     },
     {
         "name": {
@@ -73,10 +73,9 @@
         "capital": [
             "Madrid"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1311341"
-        }
+        "latlng": [
+            40.0, -4.0
+        ]
     },
     {
         "name": {
@@ -97,10 +96,10 @@
         "capital": [
             "Helsinki"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
-            "openStreetMaps": "openstreetmap.org/relation/54224"
-        }
+        "latlng": [
+            64.0,
+            26.0
+        ]
     },
     {
         "name": {
@@ -117,10 +116,10 @@
         "capital": [
             "Tirana"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/53292"
-        }
+        "latlng": [
+            41.0,
+            20.0
+        ]
     },
     {
         "name": {
@@ -137,10 +136,10 @@
         "capital": [
             "Tallinn"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/79510"
-        }
+        "latlng": [
+            59.0,
+            26.0
+        ]
     },
     {
         "name": {
@@ -165,10 +164,9 @@
         "capital": [
             "St. Peter Port"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/270009"
-        }
+        "latlng": [
+            49.46666666, -2.58333333
+        ]
     },
     {
         "name": {
@@ -189,10 +187,10 @@
         "capital": [
             "Pristina"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/2088990"
-        }
+        "latlng": [
+            42.666667,
+            21.166667
+        ]
     },
     {
         "name": {
@@ -209,10 +207,10 @@
         "capital": [
             "Berlin"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/51477"
-        }
+        "latlng": [
+            51.0,
+            9.0
+        ]
     },
     {
         "name": {
@@ -233,10 +231,10 @@
         "capital": [
             "Nicosia"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/307787"
-        }
+        "latlng": [
+            35.0,
+            33.0
+        ]
     },
     {
         "name": {
@@ -253,10 +251,10 @@
         "capital": [
             "Paris"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1403916"
-        }
+        "latlng": [
+            46.0,
+            2.0
+        ]
     },
     {
         "name": {
@@ -273,10 +271,10 @@
         "capital": [
             "Podgorica"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/53296"
-        }
+        "latlng": [
+            42.5,
+            19.3
+        ]
     },
     {
         "name": {
@@ -293,10 +291,9 @@
         "capital": [
             "Lisbon"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/295480"
-        }
+        "latlng": [
+            39.5, -8.0
+        ]
     },
     {
         "name": {
@@ -313,10 +310,9 @@
         "capital": [
             "Reykjavik"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/299133"
-        }
+        "latlng": [
+            65.0, -18.0
+        ]
     },
     {
         "name": {
@@ -345,10 +341,10 @@
         "capital": [
             "Bern"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/51701"
-        }
+        "latlng": [
+            47.0,
+            8.0
+        ]
     },
     {
         "name": {
@@ -365,10 +361,10 @@
         "capital": [
             "Ljubljana"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/218657"
-        }
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ]
     },
     {
         "name": {
@@ -385,10 +381,10 @@
         "capital": [
             "Kyiv"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/60199"
-        }
+        "latlng": [
+            49.0,
+            32.0
+        ]
     },
     {
         "name": {
@@ -405,10 +401,10 @@
         "capital": [
             "Warsaw"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/49715"
-        }
+        "latlng": [
+            52.0,
+            20.0
+        ]
     },
     {
         "name": {
@@ -425,10 +421,9 @@
         "capital": [
             "London"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/62149"
-        }
+        "latlng": [
+            54.0, -2.0
+        ]
     },
     {
         "name": {
@@ -445,10 +440,10 @@
         "capital": [
             "Moscow"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
-        }
+        "latlng": [
+            60.0,
+            100.0
+        ]
     },
     {
         "name": {
@@ -473,10 +468,10 @@
         "capital": [
             "Oslo"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/2978650"
-        }
+        "latlng": [
+            62.0,
+            10.0
+        ]
     },
     {
         "name": {
@@ -493,10 +488,10 @@
         "capital": [
             "Copenhagen"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/50046"
-        }
+        "latlng": [
+            56.0,
+            10.0
+        ]
     },
     {
         "name": {
@@ -513,10 +508,10 @@
         "capital": [
             "Zagreb"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/214885"
-        }
+        "latlng": [
+            45.16666666,
+            15.5
+        ]
     },
     {
         "name": {
@@ -537,10 +532,9 @@
         "capital": [
             "Tórshavn"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/52939"
-        }
+        "latlng": [
+            62.0, -7.0
+        ]
     },
     {
         "name": {
@@ -557,10 +551,10 @@
         "capital": [
             "Riga"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/72594"
-        }
+        "latlng": [
+            57.0,
+            25.0
+        ]
     },
     {
         "name": {
@@ -581,10 +575,10 @@
         "capital": [
             "Valletta"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/skXCqguxDxxEKVk47",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/365307"
-        }
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ]
     },
     {
         "name": {
@@ -601,10 +595,10 @@
         "capital": [
             "Amsterdam"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/47796"
-        }
+        "latlng": [
+            52.5,
+            5.75
+        ]
     },
     {
         "name": {
@@ -621,10 +615,10 @@
         "capital": [
             "Chișinău"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/58974"
-        }
+        "latlng": [
+            47.0,
+            29.0
+        ]
     },
     {
         "name": {
@@ -649,10 +643,10 @@
         "capital": [
             "Sarajevo"
         ],
-        "maps": {
-            "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/2528142"
-        }
+        "latlng": [
+            44.0,
+            18.0
+        ]
     },
     {
         "name": {
@@ -673,10 +667,10 @@
         "capital": [
             "Prague"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/51684"
-        }
+        "latlng": [
+            49.75,
+            15.5
+        ]
     },
     {
         "name": {
@@ -697,10 +691,9 @@
         "capital": [
             "Dublin"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/62273"
-        }
+        "latlng": [
+            53.0, -8.0
+        ]
     },
     {
         "name": {
@@ -725,10 +718,10 @@
         "capital": [
             "Luxembourg"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/2171347#map=10/49.8167/6.1335"
-        }
+        "latlng": [
+            49.75,
+            6.16666666
+        ]
     },
     {
         "name": {
@@ -745,10 +738,10 @@
         "capital": [
             "City of San Marino"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/54624"
-        }
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ]
     },
     {
         "name": {
@@ -765,10 +758,10 @@
         "capital": [
             "Vilnius"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/72596"
-        }
+        "latlng": [
+            56.0,
+            24.0
+        ]
     },
     {
         "name": {
@@ -789,10 +782,9 @@
         "capital": [
             "Douglas"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/62269"
-        }
+        "latlng": [
+            54.25, -4.5
+        ]
     },
     {
         "name": {
@@ -809,10 +801,10 @@
         "capital": [
             "Monaco"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1124039"
-        }
+        "latlng": [
+            43.73333333,
+            7.4
+        ]
     },
     {
         "name": {
@@ -829,10 +821,10 @@
         "capital": [
             "Athens"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/192307"
-        }
+        "latlng": [
+            39.0,
+            22.0
+        ]
     },
     {
         "name": {
@@ -849,10 +841,9 @@
         "capital": [
             "Gibraltar"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1278736"
-        }
+        "latlng": [
+            36.13333333, -5.35
+        ]
     },
     {
         "name": {
@@ -869,10 +860,10 @@
         "capital": [
             "Sofia"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/186382"
-        }
+        "latlng": [
+            43.0,
+            25.0
+        ]
     },
     {
         "name": {
@@ -889,10 +880,10 @@
         "capital": [
             "Budapest"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/21335"
-        }
+        "latlng": [
+            47.0,
+            20.0
+        ]
     },
     {
         "name": {
@@ -917,10 +908,10 @@
         "capital": [
             "Brussels"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/52411"
-        }
+        "latlng": [
+            50.83333333,
+            4.0
+        ]
     },
     {
         "name": {
@@ -937,10 +928,10 @@
         "capital": [
             "Vaduz"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1155955"
-        }
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ]
     },
     {
         "name": {
@@ -957,10 +948,10 @@
         "capital": [
             "Bucharest"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/90689"
-        }
+        "latlng": [
+            46.0,
+            25.0
+        ]
     },
     {
         "name": {
@@ -981,10 +972,10 @@
         "capital": [
             "Vatican City"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/36989"
-        }
+        "latlng": [
+            41.9,
+            12.45
+        ]
     },
     {
         "name": {
@@ -1001,10 +992,10 @@
         "capital": [
             "Andorra la Vella"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/9407"
-        }
+        "latlng": [
+            42.5,
+            1.5
+        ]
     },
     {
         "name": {
@@ -1021,10 +1012,10 @@
         "capital": [
             "Longyearbyen"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1337397"
-        }
+        "latlng": [
+            78.0,
+            20.0
+        ]
     },
     {
         "name": {
@@ -1045,10 +1036,10 @@
         "capital": [
             "Minsk"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
-        }
+        "latlng": [
+            53.0,
+            28.0
+        ]
     },
     {
         "name": {
@@ -1065,10 +1056,10 @@
         "capital": [
             "Belgrade"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/1741311"
-        }
+        "latlng": [
+            44.0,
+            21.0
+        ]
     },
     {
         "name": {
@@ -1093,10 +1084,9 @@
         "capital": [
             "Saint Helier"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/367988"
-        }
+        "latlng": [
+            49.25, -2.16666666
+        ]
     },
     {
         "name": {
@@ -1113,10 +1103,10 @@
         "capital": [
             "Stockholm"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/52822"
-        }
+        "latlng": [
+            62.0,
+            15.0
+        ]
     },
     {
         "name": {
@@ -1133,10 +1123,10 @@
         "capital": [
             "Rome"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/365331"
-        }
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ]
     },
     {
         "name": {
@@ -1153,9 +1143,9 @@
         "capital": [
             "Vienna"
         ],
-        "maps": {
-            "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
-            "openStreetMaps": "https://www.openstreetmap.org/relation/16239"
-        }
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ]
     }
 ]
