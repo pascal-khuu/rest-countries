@@ -17,16 +17,15 @@ async function render() {
     target.innerHTML = option;
     // const target2 = document.getElementById('map');
     // target2.innerHTML = map;
-    // const result = document.getElementById('map');
     console.log(target.value);
     target.addEventListener('change', () => displaymap(target));
 }
 
 async function displaymap(target) {
-    // console.log(target.value);
-    // let target2 = target.value.toString();
-    const response = await fetch('https://restcountries.com/v3.1/alpha/target.value');
+    console.log(target.value);
+    const response = await fetch(`https://restcountries.com/v3.1/alpha/${target.value}?fields=capitalInfo`);
     const mapDisplay = await response.json();
+    let map = '';
     map = `<iframe style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/view?key=AIzaSyCZm8TLhPjzek0GMmnJtgZDBgyIJXG_EPE&center=${mapDisplay.capitalInfo.latlng[0]},${mapDisplay.capitalInfo.latlng[1]}&zoom=10&language=en-US"></iframe>`;
     const result = document.getElementById('map');
     result.innerHTML = map;
