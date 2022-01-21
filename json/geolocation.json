@@ -1,4 +1,10 @@
 [{
+        "capitalInfo": {
+            "latlng": [
+                48.15,
+                17.12
+            ]
+        },
         "name": {
             "common": "Slovakia",
             "official": "Slovak Republic",
@@ -9,16 +15,15 @@
                 }
             }
         },
-        "cca2": "SK",
-        "capital": [
-            "Bratislava"
-        ],
-        "latlng": [
-            48.66666666,
-            19.5
-        ]
+        "cca2": "SK"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                42.0,
+                21.43
+            ]
+        },
         "name": {
             "common": "North Macedonia",
             "official": "Republic of North Macedonia",
@@ -29,16 +34,15 @@
                 }
             }
         },
-        "cca2": "MK",
-        "capital": [
-            "Skopje"
-        ],
-        "latlng": [
-            41.83333333,
-            22.0
-        ]
+        "cca2": "MK"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                60.12,
+                19.9
+            ]
+        },
         "name": {
             "common": "Åland Islands",
             "official": "Åland Islands",
@@ -49,16 +53,14 @@
                 }
             }
         },
-        "cca2": "AX",
-        "capital": [
-            "Mariehamn"
-        ],
-        "latlng": [
-            60.116667,
-            19.9
-        ]
+        "cca2": "AX"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                40.4, -3.68
+            ]
+        },
         "name": {
             "common": "Spain",
             "official": "Kingdom of Spain",
@@ -69,15 +71,15 @@
                 }
             }
         },
-        "cca2": "ES",
-        "capital": [
-            "Madrid"
-        ],
-        "latlng": [
-            40.0, -4.0
-        ]
+        "cca2": "ES"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                60.17,
+                24.93
+            ]
+        },
         "name": {
             "common": "Finland",
             "official": "Republic of Finland",
@@ -92,16 +94,15 @@
                 }
             }
         },
-        "cca2": "FI",
-        "capital": [
-            "Helsinki"
-        ],
-        "latlng": [
-            64.0,
-            26.0
-        ]
+        "cca2": "FI"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                41.32,
+                19.82
+            ]
+        },
         "name": {
             "common": "Albania",
             "official": "Republic of Albania",
@@ -112,16 +113,15 @@
                 }
             }
         },
-        "cca2": "AL",
-        "capital": [
-            "Tirana"
-        ],
-        "latlng": [
-            41.0,
-            20.0
-        ]
+        "cca2": "AL"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                59.43,
+                24.72
+            ]
+        },
         "name": {
             "common": "Estonia",
             "official": "Republic of Estonia",
@@ -132,16 +132,14 @@
                 }
             }
         },
-        "cca2": "EE",
-        "capital": [
-            "Tallinn"
-        ],
-        "latlng": [
-            59.0,
-            26.0
-        ]
+        "cca2": "EE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                49.45, -2.54
+            ]
+        },
         "name": {
             "common": "Guernsey",
             "official": "Bailiwick of Guernsey",
@@ -160,15 +158,15 @@
                 }
             }
         },
-        "cca2": "GG",
-        "capital": [
-            "St. Peter Port"
-        ],
-        "latlng": [
-            49.46666666, -2.58333333
-        ]
+        "cca2": "GG"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                42.67,
+                21.17
+            ]
+        },
         "name": {
             "common": "Kosovo",
             "official": "Republic of Kosovo",
@@ -183,16 +181,15 @@
                 }
             }
         },
-        "cca2": "XK",
-        "capital": [
-            "Pristina"
-        ],
-        "latlng": [
-            42.666667,
-            21.166667
-        ]
+        "cca2": "XK"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                52.52,
+                13.4
+            ]
+        },
         "name": {
             "common": "Germany",
             "official": "Federal Republic of Germany",
@@ -203,16 +200,15 @@
                 }
             }
         },
-        "cca2": "DE",
-        "capital": [
-            "Berlin"
-        ],
-        "latlng": [
-            51.0,
-            9.0
-        ]
+        "cca2": "DE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                35.17,
+                33.37
+            ]
+        },
         "name": {
             "common": "Cyprus",
             "official": "Republic of Cyprus",
@@ -227,16 +223,15 @@
                 }
             }
         },
-        "cca2": "CY",
-        "capital": [
-            "Nicosia"
-        ],
-        "latlng": [
-            35.0,
-            33.0
-        ]
+        "cca2": "CY"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                48.87,
+                2.33
+            ]
+        },
         "name": {
             "common": "France",
             "official": "French Republic",
@@ -247,16 +242,15 @@
                 }
             }
         },
-        "cca2": "FR",
-        "capital": [
-            "Paris"
-        ],
-        "latlng": [
-            46.0,
-            2.0
-        ]
+        "cca2": "FR"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                42.43,
+                19.27
+            ]
+        },
         "name": {
             "common": "Montenegro",
             "official": "Montenegro",
@@ -267,16 +261,14 @@
                 }
             }
         },
-        "cca2": "ME",
-        "capital": [
-            "Podgorica"
-        ],
-        "latlng": [
-            42.5,
-            19.3
-        ]
+        "cca2": "ME"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                38.72, -9.13
+            ]
+        },
         "name": {
             "common": "Portugal",
             "official": "Portuguese Republic",
@@ -287,15 +279,14 @@
                 }
             }
         },
-        "cca2": "PT",
-        "capital": [
-            "Lisbon"
-        ],
-        "latlng": [
-            39.5, -8.0
-        ]
+        "cca2": "PT"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                64.15, -21.95
+            ]
+        },
         "name": {
             "common": "Iceland",
             "official": "Iceland",
@@ -306,15 +297,15 @@
                 }
             }
         },
-        "cca2": "IS",
-        "capital": [
-            "Reykjavik"
-        ],
-        "latlng": [
-            65.0, -18.0
-        ]
+        "cca2": "IS"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                46.92,
+                7.47
+            ]
+        },
         "name": {
             "common": "Switzerland",
             "official": "Swiss Confederation",
@@ -337,16 +328,15 @@
                 }
             }
         },
-        "cca2": "CH",
-        "capital": [
-            "Bern"
-        ],
-        "latlng": [
-            47.0,
-            8.0
-        ]
+        "cca2": "CH"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                46.05,
+                14.52
+            ]
+        },
         "name": {
             "common": "Slovenia",
             "official": "Republic of Slovenia",
@@ -357,16 +347,15 @@
                 }
             }
         },
-        "cca2": "SI",
-        "capital": [
-            "Ljubljana"
-        ],
-        "latlng": [
-            46.11666666,
-            14.81666666
-        ]
+        "cca2": "SI"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                50.43,
+                30.52
+            ]
+        },
         "name": {
             "common": "Ukraine",
             "official": "Ukraine",
@@ -377,16 +366,15 @@
                 }
             }
         },
-        "cca2": "UA",
-        "capital": [
-            "Kyiv"
-        ],
-        "latlng": [
-            49.0,
-            32.0
-        ]
+        "cca2": "UA"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                52.25,
+                21.0
+            ]
+        },
         "name": {
             "common": "Poland",
             "official": "Republic of Poland",
@@ -397,16 +385,14 @@
                 }
             }
         },
-        "cca2": "PL",
-        "capital": [
-            "Warsaw"
-        ],
-        "latlng": [
-            52.0,
-            20.0
-        ]
+        "cca2": "PL"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                51.5, -0.08
+            ]
+        },
         "name": {
             "common": "United Kingdom",
             "official": "United Kingdom of Great Britain and Northern Ireland",
@@ -417,15 +403,15 @@
                 }
             }
         },
-        "cca2": "GB",
-        "capital": [
-            "London"
-        ],
-        "latlng": [
-            54.0, -2.0
-        ]
+        "cca2": "GB"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                55.75,
+                37.6
+            ]
+        },
         "name": {
             "common": "Russia",
             "official": "Russian Federation",
@@ -436,16 +422,15 @@
                 }
             }
         },
-        "cca2": "RU",
-        "capital": [
-            "Moscow"
-        ],
-        "latlng": [
-            60.0,
-            100.0
-        ]
+        "cca2": "RU"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                59.92,
+                10.75
+            ]
+        },
         "name": {
             "common": "Norway",
             "official": "Kingdom of Norway",
@@ -464,16 +449,15 @@
                 }
             }
         },
-        "cca2": "NO",
-        "capital": [
-            "Oslo"
-        ],
-        "latlng": [
-            62.0,
-            10.0
-        ]
+        "cca2": "NO"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                55.67,
+                12.58
+            ]
+        },
         "name": {
             "common": "Denmark",
             "official": "Kingdom of Denmark",
@@ -484,16 +468,15 @@
                 }
             }
         },
-        "cca2": "DK",
-        "capital": [
-            "Copenhagen"
-        ],
-        "latlng": [
-            56.0,
-            10.0
-        ]
+        "cca2": "DK"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                45.8,
+                16.0
+            ]
+        },
         "name": {
             "common": "Croatia",
             "official": "Republic of Croatia",
@@ -504,16 +487,14 @@
                 }
             }
         },
-        "cca2": "HR",
-        "capital": [
-            "Zagreb"
-        ],
-        "latlng": [
-            45.16666666,
-            15.5
-        ]
+        "cca2": "HR"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                62.01, -6.77
+            ]
+        },
         "name": {
             "common": "Faroe Islands",
             "official": "Faroe Islands",
@@ -528,15 +509,15 @@
                 }
             }
         },
-        "cca2": "FO",
-        "capital": [
-            "Tórshavn"
-        ],
-        "latlng": [
-            62.0, -7.0
-        ]
+        "cca2": "FO"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                56.95,
+                24.1
+            ]
+        },
         "name": {
             "common": "Latvia",
             "official": "Republic of Latvia",
@@ -547,16 +528,15 @@
                 }
             }
         },
-        "cca2": "LV",
-        "capital": [
-            "Riga"
-        ],
-        "latlng": [
-            57.0,
-            25.0
-        ]
+        "cca2": "LV"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                35.88,
+                14.5
+            ]
+        },
         "name": {
             "common": "Malta",
             "official": "Republic of Malta",
@@ -571,16 +551,15 @@
                 }
             }
         },
-        "cca2": "MT",
-        "capital": [
-            "Valletta"
-        ],
-        "latlng": [
-            35.83333333,
-            14.58333333
-        ]
+        "cca2": "MT"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                52.35,
+                4.92
+            ]
+        },
         "name": {
             "common": "Netherlands",
             "official": "Kingdom of the Netherlands",
@@ -591,16 +570,15 @@
                 }
             }
         },
-        "cca2": "NL",
-        "capital": [
-            "Amsterdam"
-        ],
-        "latlng": [
-            52.5,
-            5.75
-        ]
+        "cca2": "NL"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                47.01,
+                28.9
+            ]
+        },
         "name": {
             "common": "Moldova",
             "official": "Republic of Moldova",
@@ -611,16 +589,15 @@
                 }
             }
         },
-        "cca2": "MD",
-        "capital": [
-            "Chișinău"
-        ],
-        "latlng": [
-            47.0,
-            29.0
-        ]
+        "cca2": "MD"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                43.87,
+                18.42
+            ]
+        },
         "name": {
             "common": "Bosnia and Herzegovina",
             "official": "Bosnia and Herzegovina",
@@ -639,16 +616,15 @@
                 }
             }
         },
-        "cca2": "BA",
-        "capital": [
-            "Sarajevo"
-        ],
-        "latlng": [
-            44.0,
-            18.0
-        ]
+        "cca2": "BA"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                50.08,
+                14.47
+            ]
+        },
         "name": {
             "common": "Czechia",
             "official": "Czech Republic",
@@ -663,16 +639,14 @@
                 }
             }
         },
-        "cca2": "CZ",
-        "capital": [
-            "Prague"
-        ],
-        "latlng": [
-            49.75,
-            15.5
-        ]
+        "cca2": "CZ"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                53.32, -6.23
+            ]
+        },
         "name": {
             "common": "Ireland",
             "official": "Republic of Ireland",
@@ -687,15 +661,15 @@
                 }
             }
         },
-        "cca2": "IE",
-        "capital": [
-            "Dublin"
-        ],
-        "latlng": [
-            53.0, -8.0
-        ]
+        "cca2": "IE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                49.6,
+                6.12
+            ]
+        },
         "name": {
             "common": "Luxembourg",
             "official": "Grand Duchy of Luxembourg",
@@ -714,16 +688,15 @@
                 }
             }
         },
-        "cca2": "LU",
-        "capital": [
-            "Luxembourg"
-        ],
-        "latlng": [
-            49.75,
-            6.16666666
-        ]
+        "cca2": "LU"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                43.94,
+                12.45
+            ]
+        },
         "name": {
             "common": "San Marino",
             "official": "Republic of San Marino",
@@ -734,16 +707,15 @@
                 }
             }
         },
-        "cca2": "SM",
-        "capital": [
-            "City of San Marino"
-        ],
-        "latlng": [
-            43.76666666,
-            12.41666666
-        ]
+        "cca2": "SM"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                54.68,
+                25.32
+            ]
+        },
         "name": {
             "common": "Lithuania",
             "official": "Republic of Lithuania",
@@ -754,16 +726,14 @@
                 }
             }
         },
-        "cca2": "LT",
-        "capital": [
-            "Vilnius"
-        ],
-        "latlng": [
-            56.0,
-            24.0
-        ]
+        "cca2": "LT"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                54.15, -4.48
+            ]
+        },
         "name": {
             "common": "Isle of Man",
             "official": "Isle of Man",
@@ -778,15 +748,15 @@
                 }
             }
         },
-        "cca2": "IM",
-        "capital": [
-            "Douglas"
-        ],
-        "latlng": [
-            54.25, -4.5
-        ]
+        "cca2": "IM"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                43.73,
+                7.42
+            ]
+        },
         "name": {
             "common": "Monaco",
             "official": "Principality of Monaco",
@@ -797,16 +767,15 @@
                 }
             }
         },
-        "cca2": "MC",
-        "capital": [
-            "Monaco"
-        ],
-        "latlng": [
-            43.73333333,
-            7.4
-        ]
+        "cca2": "MC"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                37.98,
+                23.73
+            ]
+        },
         "name": {
             "common": "Greece",
             "official": "Hellenic Republic",
@@ -817,16 +786,14 @@
                 }
             }
         },
-        "cca2": "GR",
-        "capital": [
-            "Athens"
-        ],
-        "latlng": [
-            39.0,
-            22.0
-        ]
+        "cca2": "GR"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                36.13, -5.35
+            ]
+        },
         "name": {
             "common": "Gibraltar",
             "official": "Gibraltar",
@@ -837,15 +804,15 @@
                 }
             }
         },
-        "cca2": "GI",
-        "capital": [
-            "Gibraltar"
-        ],
-        "latlng": [
-            36.13333333, -5.35
-        ]
+        "cca2": "GI"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                42.68,
+                23.32
+            ]
+        },
         "name": {
             "common": "Bulgaria",
             "official": "Republic of Bulgaria",
@@ -856,16 +823,15 @@
                 }
             }
         },
-        "cca2": "BG",
-        "capital": [
-            "Sofia"
-        ],
-        "latlng": [
-            43.0,
-            25.0
-        ]
+        "cca2": "BG"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                47.5,
+                19.08
+            ]
+        },
         "name": {
             "common": "Hungary",
             "official": "Hungary",
@@ -876,16 +842,15 @@
                 }
             }
         },
-        "cca2": "HU",
-        "capital": [
-            "Budapest"
-        ],
-        "latlng": [
-            47.0,
-            20.0
-        ]
+        "cca2": "HU"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                50.83,
+                4.33
+            ]
+        },
         "name": {
             "common": "Belgium",
             "official": "Kingdom of Belgium",
@@ -904,16 +869,15 @@
                 }
             }
         },
-        "cca2": "BE",
-        "capital": [
-            "Brussels"
-        ],
-        "latlng": [
-            50.83333333,
-            4.0
-        ]
+        "cca2": "BE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                47.13,
+                9.52
+            ]
+        },
         "name": {
             "common": "Liechtenstein",
             "official": "Principality of Liechtenstein",
@@ -924,16 +888,15 @@
                 }
             }
         },
-        "cca2": "LI",
-        "capital": [
-            "Vaduz"
-        ],
-        "latlng": [
-            47.26666666,
-            9.53333333
-        ]
+        "cca2": "LI"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                44.43,
+                26.1
+            ]
+        },
         "name": {
             "common": "Romania",
             "official": "Romania",
@@ -944,16 +907,15 @@
                 }
             }
         },
-        "cca2": "RO",
-        "capital": [
-            "Bucharest"
-        ],
-        "latlng": [
-            46.0,
-            25.0
-        ]
+        "cca2": "RO"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                41.9,
+                12.45
+            ]
+        },
         "name": {
             "common": "Vatican City",
             "official": "Vatican City State",
@@ -968,16 +930,15 @@
                 }
             }
         },
-        "cca2": "VA",
-        "capital": [
-            "Vatican City"
-        ],
-        "latlng": [
-            41.9,
-            12.45
-        ]
+        "cca2": "VA"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                42.5,
+                1.52
+            ]
+        },
         "name": {
             "common": "Andorra",
             "official": "Principality of Andorra",
@@ -988,16 +949,15 @@
                 }
             }
         },
-        "cca2": "AD",
-        "capital": [
-            "Andorra la Vella"
-        ],
-        "latlng": [
-            42.5,
-            1.5
-        ]
+        "cca2": "AD"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                78.22,
+                15.63
+            ]
+        },
         "name": {
             "common": "Svalbard and Jan Mayen",
             "official": "Svalbard og Jan Mayen",
@@ -1008,16 +968,15 @@
                 }
             }
         },
-        "cca2": "SJ",
-        "capital": [
-            "Longyearbyen"
-        ],
-        "latlng": [
-            78.0,
-            20.0
-        ]
+        "cca2": "SJ"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                53.9,
+                27.57
+            ]
+        },
         "name": {
             "common": "Belarus",
             "official": "Republic of Belarus",
@@ -1032,16 +991,15 @@
                 }
             }
         },
-        "cca2": "BY",
-        "capital": [
-            "Minsk"
-        ],
-        "latlng": [
-            53.0,
-            28.0
-        ]
+        "cca2": "BY"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                44.83,
+                20.5
+            ]
+        },
         "name": {
             "common": "Serbia",
             "official": "Republic of Serbia",
@@ -1052,16 +1010,14 @@
                 }
             }
         },
-        "cca2": "RS",
-        "capital": [
-            "Belgrade"
-        ],
-        "latlng": [
-            44.0,
-            21.0
-        ]
+        "cca2": "RS"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                49.18, -2.1
+            ]
+        },
         "name": {
             "common": "Jersey",
             "official": "Bailiwick of Jersey",
@@ -1080,15 +1036,15 @@
                 }
             }
         },
-        "cca2": "JE",
-        "capital": [
-            "Saint Helier"
-        ],
-        "latlng": [
-            49.25, -2.16666666
-        ]
+        "cca2": "JE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                59.33,
+                18.05
+            ]
+        },
         "name": {
             "common": "Sweden",
             "official": "Kingdom of Sweden",
@@ -1099,16 +1055,15 @@
                 }
             }
         },
-        "cca2": "SE",
-        "capital": [
-            "Stockholm"
-        ],
-        "latlng": [
-            62.0,
-            15.0
-        ]
+        "cca2": "SE"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                41.9,
+                12.48
+            ]
+        },
         "name": {
             "common": "Italy",
             "official": "Italian Republic",
@@ -1119,16 +1074,15 @@
                 }
             }
         },
-        "cca2": "IT",
-        "capital": [
-            "Rome"
-        ],
-        "latlng": [
-            42.83333333,
-            12.83333333
-        ]
+        "cca2": "IT"
     },
     {
+        "capitalInfo": {
+            "latlng": [
+                48.2,
+                16.37
+            ]
+        },
         "name": {
             "common": "Austria",
             "official": "Republic of Austria",
@@ -1139,13 +1093,6 @@
                 }
             }
         },
-        "cca2": "AT",
-        "capital": [
-            "Vienna"
-        ],
-        "latlng": [
-            47.33333333,
-            13.33333333
-        ]
+        "cca2": "AT"
     }
 ]
