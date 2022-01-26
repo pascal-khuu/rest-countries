@@ -11,17 +11,14 @@ async function render() {
     for (const mapCountry of mapCountriesEurope) {
         // build a drop-down list of European countries 
         let optionCountry = `<option value="${mapCountry.cca2}"  > ${mapCountry.name.official}</option>`;
-        if (mapCountry.cca2 !== "FR") {
-            option += optionCountry;
-        } else {
-            option += !optionCountry;
-        }
+        option += optionCountry;
     }
     // mapCapitalFrance is an url (src) of an iframe which displays a map centered on Paris of France thanks to its latitude and its longitude with the zoom 10 and the language English.
     mapCapitalFrance = `https://www.google.com/maps/embed/v1/view?key=AIzaSyCZm8TLhPjzek0GMmnJtgZDBgyIJXG_EPE&center=${infoCapitalFrance.capitalInfo.latlng[0]},${infoCapitalFrance.capitalInfo.latlng[1]}&zoom=10&language=en`;
     //a variable 'selectCountry' is a dropdown list of European countries 
     const selectCountry = document.getElementById('mapcountries');
     selectCountry.innerHTML = option;
+    selectCountry.value = "FR";
     //a variable 'iframeMapCountry' is  an iframe which displays a map centered on the capital of an European country (by defaut France and an other European country selected by the drop-down list of European countries above).
     const iframeMapCountry = document.getElementById('mapiframe');
     // iframeMapCountry.src is  here an url (src) of an iframe which displays a map centered on Paris of France thanks to its latitude and its longitude with the zoom 10 and the language English.
