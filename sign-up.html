@@ -48,7 +48,8 @@
     <main class="container-xl">
         <h1>Sign-up</h1>
         <form class="row g-3">
-            <div class="col-6">
+            <div class="col-4"></div>
+            <div class="col-4">
                 <label for="usernameid">Username</label>
                 <div class="input-group mb-3">
                     <span class="input-group-text" id="basic-addon1">@</span>
@@ -59,7 +60,15 @@
                 <div class="input-group mb-3">
                     <input type="text" class="form-control" id="passwordid" aria-label="password" aria-describedby="basic-addon2">
                 </div>
-                <div id="emailHelp" class="form-text mb-3">From 8 to 12 characters at least 1 uppercase letter, 1 lowercase letter, 1 digit and 1 special character</div>
+                <div id="passwordHelp" class="form-text mb-3">From 8 to 12 characters at least 1 uppercase letter, 1 lowercase letter, 1 digit and 1 special character
+                </div>
+                <label for="confirmpasswordid">Confirm Password</label>
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" id="confirmpasswordid" aria-label="password" aria-describedby="basic-addon3">
+                </div>
+                <div class="col-12 justify-content-end">
+                    <button type="submit" class="btn btn-primary">Sign up</button>
+                </div>
             </div>
         </form>
     </main>
