@@ -47,25 +47,31 @@
 
     <main class="container-xl">
         <h1>Sign-up</h1>
-        <form class="row g-3 d-grid  justify-content-center col-md-12">
+        <!-- form "Sign-up" responsive md with all spaces (breakpoint md) and the form is centered when it is not responsive -->
+        <form class="row g-3 d-md-grid  justify-content-center ">
+            <!-- field Username -->
             <label for="usernameid">Username</label>
             <div class="input-group mb-3">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input type="text" class="form-control" id="usernameid" aria-label="Username" aria-describedby="basic-addon1">
             </div>
+            <!-- field email -->
             <div id="emailHelp" class="form-text mb-3">Must be a valid email address</div>
+            <!-- field password -->
             <label for="passwordid">Password</label>
             <div class="input-group mb-3">
                 <input type="text" class="form-control" id="passwordid" aria-label="password" aria-describedby="basic-addon2">
             </div>
             <div id="passwordHelp" class="form-text mb-3">From 8 to 12 characters at least 1 uppercase letter, 1 lowercase letter, 1 digit and 1 special character
             </div>
+            <!-- field confirmpassword -->
             <label for="confirmpasswordid">Confirm Password</label>
             <div class="input-group mb-3">
                 <input type="text" class="form-control" id="confirmpasswordid" aria-label="password" aria-describedby="basic-addon3">
             </div>
-            <div class="d-grid    justify-content-end">
-                <button type="submit" class="btn  btn-primary text-nowrap">Sign up</button>
+            <!-- button submit "Sign up" is in the end -->
+            <div class="d-grid justify-content-end">
+                <button type="submit" class="btn-primary  text-nowrap">Sign up</button>
             </div>
         </form>
     </main>
