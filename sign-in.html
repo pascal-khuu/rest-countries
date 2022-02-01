@@ -30,6 +30,7 @@
                             <a class="nav-link" href="./geolocation.html">Geolocation</a>
                         </li>
                     </ul>
+                    <!-- sign-up and sign-in are placed at the end of the navbar -->
                     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                         <ul class="navbar-nav ml-auto mb-2 mb-lg-0 ">
                             <li class="nav-item ">
@@ -47,23 +48,24 @@
 
     <main class="container-xl">
         <h1>Sign in</h1>
-        <!-- form "Sign in" responsive md with  all spaces (breakpoint md) and the form is centered when it is not responsive -->
-        <form class="row g-3 d-md-grid justify-content-center">
+        <!-- form "Sign in" responsive (md) with  all available spaces (breakpoint md<768px) and the form is centered  with the half of all available spaces when the size is ove or equal md>=768px -->
+        <form class="d-grid col-12 col-md-6 mx-auto">
             <!-- field username -->
-            <label for="usernameid">Username (email address)</label>
+            <label for="usernameid" class="form-label">Username (email address)</label>
             <div class="input-group mb-3">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input type="text" class="form-control" id="usernameid" aria-label="Username" aria-describedby="basic-addon1">
             </div>
             <!-- field password -->
-            <label for="passwordid">Password</label>
+            <label for="passwordid" class="form-label">Password</label>
             <div class="input-group mb-3">
-                <input type="text" class="form-control" id="passwordid" aria-label="password" aria-describedby="basic-addon2">
+                <input type="text" class="form-control" id="passwordid" aria-label="password">
             </div>
-            <!-- button submit "Sign in" is in the end -->
-            <div class="d-grid justify-content-end">
+            <!-- button submit "Sign in" responsive (md) with  all available spaces (breakpoint md<768px) and the button is placed at the end of the form  with the quarter of all available spaces when the size is over or equal md>=768px -->
+            <div class="d-grid col-12 col-md-3 ms-auto">
                 <button type="submit" class="btn btn-primary text-nowrap">Sign in</button>
             </div>
+        </form>
     </main>
 </body>
 

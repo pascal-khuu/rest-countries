@@ -36,7 +36,7 @@
                                 <a class="nav-link active" aria-current="page" href="./sign-up.html">Sign-up</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link " aria-current="page" href="./sign-in.html">Sign-in</a>
+                                <a class="nav-link" aria-current="page" href="./sign-in.html">Sign-in</a>
                             </li>
                         </ul>
                     </div>
@@ -47,31 +47,32 @@
 
     <main class="container-xl">
         <h1>Sign-up</h1>
-        <!-- form "Sign-up" responsive md with all spaces (breakpoint md) and the form is centered when it is not responsive -->
-        <form class="row g-3 d-md-grid  justify-content-center ">
+        <!-- form "Sign in" responsive (md) with  all spaces (breakpoint md<768px) and the form is centered with the half of all available spaces when the size is over or equal md>=768px -->
+        <form class="d-grid col-12 col-md-6 mx-auto">
             <!-- field Username -->
-            <label for="usernameid">Username</label>
-            <div class="input-group mb-3">
+            <label for="usernameid" class="form-label">Username</label>
+            <div class="input-group">
                 <span class="input-group-text" id="basic-addon1">@</span>
                 <input type="text" class="form-control" id="usernameid" aria-label="Username" aria-describedby="basic-addon1">
             </div>
-            <!-- field email -->
-            <div id="emailHelp" class="form-text mb-3">Must be a valid email address</div>
+            <!-- Validation by email for the field Username -->
+            <div id="emailHelp" class="form-text mb-3">Must be a valid email address.</div>
             <!-- field password -->
-            <label for="passwordid">Password</label>
-            <div class="input-group mb-3">
-                <input type="text" class="form-control" id="passwordid" aria-label="password" aria-describedby="basic-addon2">
+            <label for="passwordid" class="form-label">Password</label>
+            <div class="input-group">
+                <input type="text" class="form-control" id="passwordid" aria-label="password">
             </div>
-            <div id="passwordHelp" class="form-text mb-3">From 8 to 12 characters at least 1 uppercase letter, 1 lowercase letter, 1 digit and 1 special character
+            <!-- Conditions of Validation for the password -->
+            <div id="passwordHelp" class="form-text mb-3">From 8 to 12 characters at least 1 uppercase letter, 1 lowercase letter, 1 digit and 1 special character.
             </div>
             <!-- field confirmpassword -->
-            <label for="confirmpasswordid">Confirm Password</label>
+            <label for="confirmpasswordid" class="form-label">Confirm Password</label>
             <div class="input-group mb-3">
-                <input type="text" class="form-control" id="confirmpasswordid" aria-label="password" aria-describedby="basic-addon3">
+                <input type="text" class="form-control" id="confirmpasswordid" aria-label="confirmpassword">
             </div>
-            <!-- button submit "Sign up" is in the end -->
-            <div class="d-grid justify-content-end">
-                <button type="submit" class="btn btn-primary  text-nowrap">Sign up</button>
+            <!-- button submit "Sign up" responsive (md) with  all available spaces (breakpoint md<768px) and the button is placed at the end of the form  with the quarter of all available spaces when the size is over or equal md>=768px -->
+            <div class="d-grid col-12 col-md-3 ms-auto">
+                <button type="submit" class="btn btn-primary text-nowrap">Sign up</button>
             </div>
         </form>
     </main>
